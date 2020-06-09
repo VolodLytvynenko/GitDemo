@@ -19,6 +19,7 @@ public class Homepage extends basic // 'extends basic' means that we took extens
 		driver.manage().window().maximize();
 		HomePageObjects s = new HomePageObjects(driver);
 		s.getSignIn().click();
+		System.out.println("Yaaaaaaaahooooooooooooooo");
 
 	}
 	@SuppressWarnings("deprecation")
