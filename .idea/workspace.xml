@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d569de0-22b4-4d29-a8d6-49b6c4f7b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/login_features/Login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/reports/footer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageobjectResources/HomePageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageobjectResources/HomePageObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageobjectResources/LoginPageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageobjectResources/LoginPageObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageobjectResources/PLPoverlayObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageobjectResources/PLPoverlayObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageobjectResources/ShoppingCartPageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageobjectResources/ShoppingCartPageObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Endtoend/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Endtoend/Homepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Endtoend/Listeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Endtoend/Listeners.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Endtoend/ShoppingCartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Endtoend/ShoppingCartPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Resources/TestRunCucumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Resources/TestRunCucumberForHomepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Resources/TestRunCucumberTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Resources/TestRunCucumberTestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/Stepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/Stepdefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/Login.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Endtoend/basic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Endtoend/basic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/HomePageObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/HomePageObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/LoginPageObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/LoginPageObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/MinicartObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/MinicartObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/PLPoverlayObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/PLPoverlayObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/ShoppingCartPageObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/ShoppingCartPageObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test3.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.Homepage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.Homepage.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.LoginPage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.LoginPage.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.ShoppingCartPage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.ShoppingCartPage.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/Test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Endtoend/Homepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Endtoend/Homepage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Endtoend/Listeners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Endtoend/Listeners.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Endtoend/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Endtoend/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Endtoend/ShoppingCartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Endtoend/ShoppingCartPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Resources/TestRunCucumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Resources/TestRunCucumberTestNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Resources/TestRunCucumberTestNG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Stepdefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/Stepdefinitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Resources/testng.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
