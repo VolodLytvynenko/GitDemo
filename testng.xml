@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite">
-<listeners>
-  <listener class-name="Endtoend.Listeners"/>
-</listeners>
-
-  <test  name="Test1">
-    <classes>
-      <class name="Endtoend.LoginPage"/>
-    </classes>
-   </test>
-   
-    <test name="Test2">
-     <classes>
-      <class name="Endtoend.Homepage"/>
-     </classes> 
-   </test>
-   
-    <test name="Test3">
-     <classes>
-      <class name="Endtoend.ShoppingCartPage"/>
-    </classes>
-  </test>
-  
-</suite> <!-- Suite -->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My tests">
+    <parameter name="URL" value ="https://demo-1811.zaelab.com/b2b/"/>
+    <test verbose="2" preserve-order="true" name="C:/Users/Volodymyr Lytvynenko/QA-Automation">
+        <classes>
+            <class>
+                <methods>
+                    <include name="feature"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

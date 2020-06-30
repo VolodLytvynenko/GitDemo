@@ -11,10 +11,9 @@ import cucumber.api.java.en.When;
 import org.junit.Assert;
 
 public class Stepdefinitions extends basic {
-    @Given("^Initialized browser is a chrome$")
-    public void initialized_browser_is_a_chrome() throws Throwable {
-        driver = initializeDriver();
-    }
+    @Given("^Initialized browser is a chromebrowser$")
+    public void initialized_browser_is_a_chromebrowser() throws Throwable {
+        driver = initializeDriver();    }
 
     @Given("^The web site is \"([^\"]*)\"$")
     public void the_web_site_is(String arg1) throws Throwable {
@@ -27,7 +26,6 @@ public class Stepdefinitions extends basic {
         HomePageObjects s = new HomePageObjects(driver);
         s.getSignIn().click();
     }
-
     @When("^User enters valid login \"([^\"]*)\" and valid password \"([^\"]*)\"$")
     public void user_enters_valid_login_something_and_valid_password_something(String strArg1, String strArg2) throws Throwable {
         LoginPageObjects s1 = new LoginPageObjects(driver);

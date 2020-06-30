@@ -2,8 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d569de0-22b4-4d29-a8d6-49b6c4f7b0d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/login_features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/reports/footer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageobjectResources/HomePageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageobjectResources/HomePageObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageobjectResources/LoginPageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageobjectResources/LoginPageObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageobjectResources/PLPoverlayObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageobjectResources/PLPoverlayObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageobjectResources/ShoppingCartPageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageobjectResources/ShoppingCartPageObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Endtoend/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Endtoend/Homepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Endtoend/Listeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Endtoend/Listeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Endtoend/ShoppingCartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Endtoend/ShoppingCartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Resources/TestRunCucumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Resources/TestRunCucumberForHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Resources/TestRunCucumberTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Resources/TestRunCucumberTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/Stepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/Stepdefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Endtoend/basic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Endtoend/basic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/HomePageObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/HomePageObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/LoginPageObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/LoginPageObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/MinicartObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/MinicartObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/PLPoverlayObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/PLPoverlayObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageobjectResources/ShoppingCartPageObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageobjectResources/ShoppingCartPageObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test3.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.Homepage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.Homepage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.LoginPage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.LoginPage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.ShoppingCartPage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Endtoend.ShoppingCartPage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/Test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Endtoend/Homepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Endtoend/Homepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Endtoend/Listeners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Endtoend/Listeners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Endtoend/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Endtoend/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Endtoend/ShoppingCartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Endtoend/ShoppingCartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Resources/TestRunCucumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Resources/TestRunCucumberTestNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Resources/TestRunCucumberTestNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Stepdefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/Stepdefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Resources/testng.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +70,51 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="subgroup" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cqqXmRvqTw9wsZeT0stV6oNtCl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Volodymyr Lytvynenko\GitDemo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DifferentScenarious" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Volodymyr Lytvynenko\GitDemo\src\test\java\features\login_features" />
+      <recent name="C:\Users\Volodymyr Lytvynenko\GitDemo\src\test\java\features\homepage_features" />
+      <recent name="C:\Users\Volodymyr Lytvynenko\GitDemo\src\test\java" />
+      <recent name="C:\Users\Volodymyr Lytvynenko\GitDemo\src\test\java\Resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -30,6 +127,102 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Homepage.TotalCountProducts">
+    <configuration name="JustTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wiki.Coding.JustTest" />
+      <module name="subgroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Wiki.Coding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homepage.TotalCountProducts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="subgroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Endtoend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Endtoend" />
+      <option name="MAIN_CLASS_NAME" value="Endtoend.Homepage" />
+      <option name="METHOD_NAME" value="TotalCountProducts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakeParticcullarProductByArray.takeParticullarProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="subgroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DifferentScenarious.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DifferentScenarious" />
+      <option name="MAIN_CLASS_NAME" value="DifferentScenarious.TakeParticcullarProductByArray" />
+      <option name="METHOD_NAME" value="takeParticullarProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakeParticcullarProduct.takeParticullarProduct (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="subgroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DifferentScenarious.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DifferentScenarious" />
+      <option name="MAIN_CLASS_NAME" value="DifferentScenarious.TakeParticcullarProduct" />
+      <option name="METHOD_NAME" value="takeParticullarProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakeParticcullarProduct.takeParticullarProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="subgroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DifferentScenarious.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DifferentScenarious" />
+      <option name="MAIN_CLASS_NAME" value="DifferentScenarious.TakeParticcullarProduct" />
+      <option name="METHOD_NAME" value="takeParticullarProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Homepage.TotalCountProducts" />
+        <item itemvalue="TestNG.TakeParticcullarProduct.takeParticullarProduct" />
+        <item itemvalue="TestNG.TakeParticcullarProductByArray.takeParticullarProduct" />
+        <item itemvalue="TestNG.TakeParticcullarProduct.takeParticullarProduct (1)" />
+        <item itemvalue="Application.JustTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,10 +242,45 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="161" key="#Plugins" />
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" />
+    <state x="740" y="275" key="FileChooserDialogImpl" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1899" height="395" key="GridCell.Tab.0.bottom" />
+    <state width="1899" height="395" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1899" height="395" key="GridCell.Tab.0.center" />
+    <state width="1899" height="395" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1899" height="395" key="GridCell.Tab.0.left" />
+    <state width="1899" height="395" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1899" height="395" key="GridCell.Tab.0.right" />
+    <state width="1899" height="395" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" />
+    <state x="440" y="94" key="SettingsEditor" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" />
+    <state x="342" y="140" key="new project wizard" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Endtoend/Homepage.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

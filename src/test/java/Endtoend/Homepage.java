@@ -1,9 +1,12 @@
 package Endtoend;
+import org.openqa.selenium.By;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.openqa.selenium.WebDriver;
 import PageobjectResources.HomePageObjects;
-import junit.framework.Assert;
+
 import java.io.IOException;
+
 import org.testng.annotations.AfterMethod;
 
 
@@ -11,33 +14,48 @@ public class Homepage extends basic // 'extends basic' means that we took extens
 {
 	public WebDriver driver; // the declaration of the driver here will help to execute test cases step by step
 
-	@Test
-	public void homePage() throws IOException {
-		
+//	@Test
+//	public void homePage() throws IOException {
+//
+//		driver = initializeDriver();
+//		driver.get("https://demo-1811.zaelab.com/b2b/powertools/en/USD/");
+//		driver.manage().window().maximize();
+//		HomePageObjects s = new HomePageObjects(driver);
+//		s.getSignIn().click();
+//
+//	}
+//	@Test
+//	public void footer() throws IOException {
+//
+//		driver = initializeDriver();
+//		driver.get("https://demo-1811.zaelab.com/b2b/powertools/en/USD/");
+//		driver.manage().window().maximize();
+//		HomePageObjects s = new HomePageObjects(driver);
+//		Assert.assertFalse(s.getFooter().isDisplayed()); //check is the footer displayed
+//	}
+    @Test
+	public void TotalCountProducts() throws IOException {
 		driver = initializeDriver();
-		driver.get("https://electronics.demo-1905.zaelab.com/b2c/electronics/en/"); 
+		driver.get("https://demo-1811.zaelab.com/b2b/powertools/en/USD/");
 		driver.manage().window().maximize();
-		HomePageObjects s = new HomePageObjects(driver);
-		s.getSignIn().click();
-		System.out.println("Im in the develop branch. Merged");
+		HomePageObjects s1 = new HomePageObjects(driver);
+		Assert.assertEquals(s1.GetProductsQuantity(), 14);
 
 	}
-	@SuppressWarnings("deprecation")
+
 	@Test
-	public void footer() throws IOException { 
-		
+	public void test1() throws IOException {
 		driver = initializeDriver();
-		driver.get("https://electronics.demo-1905.zaelab.com/b2c/electronics/en/");
-		driver.manage().window().maximize();
-		HomePageObjects s = new HomePageObjects(driver);
-		Assert.assertFalse(s.getFooter().isDisplayed()); //check is the footer displayed
+		driver.get("https://demo-1811.zaelab.com/b2b/powertools/en/USD/");
+		driver.findElement(By.xpath("//div[@class='carousel__item--price']")).getAttribute("class");
+		System.out.print(driver.findElement(By.xpath("//div[@class='carousel__item--price']")).getAttribute("class"));
 
 
 	}
-	
-	@AfterMethod
-	public void close1() {
-		driver.close();
-	}
+
+//	@AfterMethod
+//	public void close1() {
+//		driver.close();
+//	}
 
 }

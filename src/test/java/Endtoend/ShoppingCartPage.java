@@ -18,7 +18,7 @@ public class ShoppingCartPage extends basic{
 	@Test
 	public void CheckTheMessageIfCouponIsNotValid() throws IOException, InterruptedException {
 		driver = initializeDriver();
-		driver.get("https://electronics.demo-1905.zaelab.com/b2c/electronics/en/");
+		driver.get("https://demo-1811.zaelab.com/b2b/powertools/en/USD/");
 		driver.manage().window().maximize();
 		HomePageObjects s = new HomePageObjects(driver);
 		s.getBrandsCategory().click();

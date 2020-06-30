@@ -12,7 +12,7 @@ public class LoginPageObjects {
 	By logInButton = By.xpath("//button[@class='btn btn-primary btn-block']"); 
 	By forgotPasswordElement = By.cssSelector("a[data-cbox-title = 'Reset Password']");
 	By errorMessage = By.xpath("//div[@class='alert alert-danger alert-dismissable getAccAlert']");
-	
+
 	public LoginPageObjects(WebDriver driver) {
 		this.driver = driver;
 	}

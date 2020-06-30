@@ -10,6 +10,7 @@ public class ShoppingCartPageObjects {
 	By message = By.xpath("//div[contains(text(),'The coupon code entered is not valid.')]");
 	By couponField = By.xpath("//input[contains(@placeholder,'enter coupon code')]");
 	By apply = By.xpath("//button[@id='js-voucher-apply-btn']");
+
 	
 	public ShoppingCartPageObjects(WebDriver driver) {
 		this.driver = driver;

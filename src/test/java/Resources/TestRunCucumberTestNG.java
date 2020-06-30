@@ -1,8 +1,8 @@
 package Resources;
 
-import io.cucumber.junit.Cucumber;
-import io.cucumber.testng.AbstractTestNGCucumberTests;
-import io.cucumber.testng.CucumberOptions;
+import cucumber.api.CucumberOptions;
+import cucumber.api.testng.AbstractTestNGCucumberTests;
+
 
 @CucumberOptions( // @CucumberOption has 2 input: features and glue
         features = "src/test/java/features", //specify where  you feature file is located. /features is a package where file is located

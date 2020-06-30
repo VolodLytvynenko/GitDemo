@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-06-02T16:56:01 EEST" name="Suite" finished-at="2020-06-02T16:57:12 EEST" duration-ms="70623">
+  <suite started-at="2020-06-11T11:22:39 EEST" name="Suite" finished-at="2020-06-11T11:23:46 EEST" duration-ms="66544">
     <groups>
     </groups>
-    <test started-at="2020-06-02T16:56:01 EEST" name="Test1" finished-at="2020-06-02T16:56:36 EEST" duration-ms="35065">
+    <test started-at="2020-06-11T11:22:39 EEST" name="Test1" finished-at="2020-06-11T11:23:12 EEST" duration-ms="32924">
       <class name="Endtoend.LoginPage">
-        <test-method signature="ValidLogin(java.lang.String, java.lang.String)[pri:0, instance:Endtoend.LoginPage@2bfc268b]" started-at="2020-06-02T16:56:01 EEST" name="ValidLogin" data-provider="getData" finished-at="2020-06-02T16:56:13 EEST" duration-ms="12181" status="PASS">
+        <test-method signature="ValidLogin(java.lang.String, java.lang.String)[pri:0, instance:Endtoend.LoginPage@68878f6d]" started-at="2020-06-11T11:22:39 EEST" name="ValidLogin" data-provider="getData" finished-at="2020-06-11T11:22:50 EEST" duration-ms="10829" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidLogin -->
-        <test-method is-config="true" signature="close()[pri:0, instance:Endtoend.LoginPage@2bfc268b]" started-at="2020-06-02T16:56:13 EEST" name="close" finished-at="2020-06-02T16:56:13 EEST" duration-ms="71" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:Endtoend.LoginPage@68878f6d]" started-at="2020-06-11T11:22:50 EEST" name="close" finished-at="2020-06-11T11:22:50 EEST" duration-ms="68" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method signature="ValidLogin(java.lang.String, java.lang.String)[pri:0, instance:Endtoend.LoginPage@2bfc268b]" started-at="2020-06-02T16:56:13 EEST" name="ValidLogin" data-provider="getData" finished-at="2020-06-02T16:56:24 EEST" duration-ms="10859" status="PASS">
+        <test-method signature="ValidLogin(java.lang.String, java.lang.String)[pri:0, instance:Endtoend.LoginPage@68878f6d]" started-at="2020-06-11T11:22:50 EEST" name="ValidLogin" data-provider="getData" finished-at="2020-06-11T11:23:01 EEST" duration-ms="10714" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -43,11 +43,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidLogin -->
-        <test-method is-config="true" signature="close()[pri:0, instance:Endtoend.LoginPage@2bfc268b]" started-at="2020-06-02T16:56:24 EEST" name="close" finished-at="2020-06-02T16:56:24 EEST" duration-ms="54" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:Endtoend.LoginPage@68878f6d]" started-at="2020-06-11T11:23:01 EEST" name="close" finished-at="2020-06-11T11:23:01 EEST" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method signature="ValidLogin(java.lang.String, java.lang.String)[pri:0, instance:Endtoend.LoginPage@2bfc268b]" started-at="2020-06-02T16:56:24 EEST" name="ValidLogin" data-provider="getData" finished-at="2020-06-02T16:56:36 EEST" duration-ms="11813" status="PASS">
+        <test-method signature="ValidLogin(java.lang.String, java.lang.String)[pri:0, instance:Endtoend.LoginPage@68878f6d]" started-at="2020-06-11T11:23:01 EEST" name="ValidLogin" data-provider="getData" finished-at="2020-06-11T11:23:12 EEST" duration-ms="11059" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -63,23 +63,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidLogin -->
-        <test-method is-config="true" signature="close()[pri:0, instance:Endtoend.LoginPage@2bfc268b]" started-at="2020-06-02T16:56:36 EEST" name="close" finished-at="2020-06-02T16:56:36 EEST" duration-ms="52" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:Endtoend.LoginPage@68878f6d]" started-at="2020-06-11T11:23:12 EEST" name="close" finished-at="2020-06-11T11:23:12 EEST" duration-ms="69" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- Endtoend.LoginPage -->
     </test> <!-- Test1 -->
-    <test started-at="2020-06-02T16:56:36 EEST" name="Test2" finished-at="2020-06-02T16:56:56 EEST" duration-ms="19485">
+    <test started-at="2020-06-11T11:23:12 EEST" name="Test2" finished-at="2020-06-11T11:23:30 EEST" duration-ms="17513">
       <class name="Endtoend.Homepage">
-        <test-method signature="footer()[pri:0, instance:Endtoend.Homepage@6d3a388c]" started-at="2020-06-02T16:56:36 EEST" name="footer" finished-at="2020-06-02T16:56:46 EEST" duration-ms="10209" status="FAIL">
+        <test-method signature="footer()[pri:0, instance:Endtoend.Homepage@4808bc9b]" started-at="2020-06-11T11:23:12 EEST" name="footer" finished-at="2020-06-11T11:23:19 EEST" duration-ms="6713" status="FAIL">
           <exception class="junit.framework.AssertionFailedError">
             <full-stacktrace>
               <![CDATA[junit.framework.AssertionFailedError
-at junit.framework.Assert.fail(Assert.java:47)
-at junit.framework.Assert.assertTrue(Assert.java:20)
-at junit.framework.Assert.assertFalse(Assert.java:34)
-at junit.framework.Assert.assertFalse(Assert.java:41)
-at Endtoend.Homepage.footer(Homepage.java:40)
+at junit.framework.Assert.fail(Assert.java:55)
+at junit.framework.Assert.assertTrue(Assert.java:22)
+at junit.framework.Assert.assertFalse(Assert.java:39)
+at junit.framework.Assert.assertFalse(Assert.java:47)
+at Endtoend.Homepage.footer(Homepage.java:35)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -118,27 +118,27 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- footer -->
-        <test-method is-config="true" signature="close1()[pri:0, instance:Endtoend.Homepage@6d3a388c]" started-at="2020-06-02T16:56:47 EEST" name="close1" finished-at="2020-06-02T16:56:47 EEST" duration-ms="45" status="PASS">
+        <test-method is-config="true" signature="close1()[pri:0, instance:Endtoend.Homepage@4808bc9b]" started-at="2020-06-11T11:23:20 EEST" name="close1" finished-at="2020-06-11T11:23:20 EEST" duration-ms="64" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close1 -->
-        <test-method signature="homePage()[pri:0, instance:Endtoend.Homepage@6d3a388c]" started-at="2020-06-02T16:56:47 EEST" name="homePage" finished-at="2020-06-02T16:56:56 EEST" duration-ms="8370" status="PASS">
+        <test-method signature="homePage()[pri:0, instance:Endtoend.Homepage@4808bc9b]" started-at="2020-06-11T11:23:20 EEST" name="homePage" finished-at="2020-06-11T11:23:30 EEST" duration-ms="9869" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePage -->
-        <test-method is-config="true" signature="close1()[pri:0, instance:Endtoend.Homepage@6d3a388c]" started-at="2020-06-02T16:56:56 EEST" name="close1" finished-at="2020-06-02T16:56:56 EEST" duration-ms="43" status="PASS">
+        <test-method is-config="true" signature="close1()[pri:0, instance:Endtoend.Homepage@4808bc9b]" started-at="2020-06-11T11:23:30 EEST" name="close1" finished-at="2020-06-11T11:23:30 EEST" duration-ms="74" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close1 -->
       </class> <!-- Endtoend.Homepage -->
     </test> <!-- Test2 -->
-    <test started-at="2020-06-02T16:56:56 EEST" name="Test3" finished-at="2020-06-02T16:57:12 EEST" duration-ms="16011">
+    <test started-at="2020-06-11T11:23:30 EEST" name="Test3" finished-at="2020-06-11T11:23:46 EEST" duration-ms="16040">
       <class name="Endtoend.ShoppingCartPage">
-        <test-method signature="CheckTheMessageIfCouponIsNotValid()[pri:0, instance:Endtoend.ShoppingCartPage@3514a4c0]" started-at="2020-06-02T16:56:56 EEST" name="CheckTheMessageIfCouponIsNotValid" finished-at="2020-06-02T16:57:12 EEST" duration-ms="15963" status="PASS">
+        <test-method signature="CheckTheMessageIfCouponIsNotValid()[pri:0, instance:Endtoend.ShoppingCartPage@51bf5add]" started-at="2020-06-11T11:23:30 EEST" name="CheckTheMessageIfCouponIsNotValid" finished-at="2020-06-11T11:23:46 EEST" duration-ms="15973" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckTheMessageIfCouponIsNotValid -->
-        <test-method is-config="true" signature="close3()[pri:0, instance:Endtoend.ShoppingCartPage@3514a4c0]" started-at="2020-06-02T16:57:12 EEST" name="close3" finished-at="2020-06-02T16:57:12 EEST" duration-ms="47" status="PASS">
+        <test-method is-config="true" signature="close3()[pri:0, instance:Endtoend.ShoppingCartPage@51bf5add]" started-at="2020-06-11T11:23:46 EEST" name="close3" finished-at="2020-06-11T11:23:46 EEST" duration-ms="63" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close3 -->

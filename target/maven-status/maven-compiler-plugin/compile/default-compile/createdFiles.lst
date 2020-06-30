@@ -1,0 +1,6 @@
+Endtoend\basic.class
+PageobjectResources\HomePageObjects.class
+PageobjectResources\LoginPageObjects.class
+PageobjectResources\PLPoverlayObjects.class
+PageobjectResources\MinicartObject.class
+PageobjectResources\ShoppingCartPageObjects.class

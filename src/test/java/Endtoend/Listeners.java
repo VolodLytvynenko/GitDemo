@@ -6,10 +6,12 @@ import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+import ru.yandex.qatools.allure.annotations.Step;
 
 public class Listeners extends basic implements ITestListener {
 
 	@Override
+	@Step
 	public void onTestStart(ITestResult result) {
 
 	}
